@@ -1,0 +1,19 @@
+.active1 {
+  background-color: SaddleBrown;
+  color: BurlyWood;
+}
+
+.active2 {
+  background-color: black;
+  color: red;
+}
+
+.active1-soft {
+  background-color: peru;
+  color: wheat;
+}
+
+.active2-soft {
+  background-color: rgb(60, 60, 60);
+  color: lightcoral;
+}
